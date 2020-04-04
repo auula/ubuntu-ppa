@@ -15,11 +15,13 @@
     <a href="https://github.com/higker/JTesseract" target="_blank">中 文 </a> |
     <a href="https://github.com/pandaos/panda-ubuntu-tools" target="_blank">but.sh</a> 
 </p>
+
 ### 🔝置顶通知👨‍💻‍
 <p align="center">
 请确保你的系统是<code>Ubuntu 19.10</code>
 版本!没有的话可以去下面链接下载安装~</p>
 </br>
+
 #### 相关链接
 - [Ubuntu 19.10 Download](https://ubuntu.com/download/desktop/thank-you?version=19.10&architecture=amd64)
 
