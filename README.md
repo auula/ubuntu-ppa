@@ -1,6 +1,8 @@
 # ubuntu-ppa
 Panda Desktop PPA Documentation
 
+
+
 ## Adding PandaOS PPA to your system
 
 You can update your system with unsupported packages from this untrusted PPA by adding ppa:pandaos/desktop to your system's Software Sources.
@@ -19,3 +21,6 @@ deb-src http://ppa.launchpad.net/pandaos/desktop/ubuntu eoan main
 ## Source
 
 url: [https://launchpad.net/~pandaos/+archive/ubuntu/desktop](https://launchpad.net/~pandaos/+archive/ubuntu/desktop)
+
+#### Related Links
+- [Ubuntu 19.10 Download](https://github.com/pandaos/ubuntu-ppa/blob/master/zh_readme.md)
