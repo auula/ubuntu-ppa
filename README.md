@@ -13,14 +13,11 @@ You can update your system with unsupported packages from this untrusted PPA by 
 
 This PPA can be added to your system manually by copying the lines below and adding them to your system's software sources.
 
-```
+```bash
 deb http://ppa.launchpad.net/pandaos/desktop/ubuntu eoan main 
 deb-src http://ppa.launchpad.net/pandaos/desktop/ubuntu eoan main 
 ```
 
-## Source
-
-url: [https://launchpad.net/~pandaos/+archive/ubuntu/desktop](https://launchpad.net/~pandaos/+archive/ubuntu/desktop)
-
 #### Related Links
-- [Ubuntu 19.10 Download](https://github.com/pandaos/ubuntu-ppa/blob/master/zh_readme.md)
+- [中文文档](https://github.com/pandaos/ubuntu-ppa/blob/master/zh_readme.md)
+- [Launchpad Source](https://launchpad.net/~pandaos/+archive/ubuntu/desktop)
